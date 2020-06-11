@@ -2,7 +2,7 @@
 
 ## Pourquoi le dév ?
 
-J'ai découvert l'état de flow, dont parlent beaucoup de personnes passionnées, en faisant mes premières armes en programmation informatique avec Visual Basic dans le cadre de mon travail en comptabilité. Voir le résultat escompté s'afficher à l'écran en écrivant quelques lignes de code est fascinant. Cette révélation m'a poussé à me questionner sur mon avenir professionnel et à découvrir le développement web au travers de Mooc dans un premier temps, puis d'un stage. Celui-ci a confirmé que ma carrière serait désormais dans le développement. J'ai donc suivi une formation pour en faire mon nouveau métier et je suis prête à mettre en œuvre mes compétences pour créer des sites et applications web soignés et efficaces.
+J'ai découvert l'état de flow, dont parlent beaucoup de personnes passionnées, en faisant mes premières armes en programmation informatique avec Visual Basic dans le cadre de mon travail en comptabilité. Voir le résultat escompté s'afficher à l'écran en écrivant quelques lignes de code est fascinant. Cette révélation m'a poussé à me questionner sur mon avenir professionnel et à découvrir le développement web au travers de Mooc dans un premier temps, puis d'un stage. Celui-ci a confirmé que ma carrière serait désormais dans le développement. J'ai donc suivi une formation pour en faire mon nouveau métier et je suis prête à mettre en œuvre mes compétences pour créer des sites et applications web soignés et efficaces et les faire évoluer.
 
 
 ## Quelques projets
