@@ -15,7 +15,7 @@ Les langages, frameworks et librairies principalement utilisés sont PHP, Lumen 
 
 - __Une Todolist__ qui a une version en Javascript, puis une autre en React, pour la partie Front, avec son API, faite avec Lumen pour le back. [Lien vers le dépôt](https://github.com/AnnSo-B/My_To-Do_List) 
 
-- Une __boutique en ligne__ et __son Back-Office__, en HTML, CSS et PHP, avec une architecture MVC et la mise en place d'une base de données, avec la gestion des autorisations par rôle utilisateur et la mise en oeuvre de Token CSRF, sans la gestion des paiements.
+- Une __boutique en ligne__ et __son Back-Office__, en HTML, CSS et PHP, avec une architecture MVC et la mise en place d'une base de données, avec la gestion des autorisations par rôle utilisateur et la mise en oeuvre de Token CSRF. Lien vers le dépôt prochainement.
 
 - Un __mini-jeu de plateforme__ en React. [Lien vers le dépôt](https://github.com/AnnSo-B/mini-game)
 
