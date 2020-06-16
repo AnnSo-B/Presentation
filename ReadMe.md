@@ -10,11 +10,11 @@ Vous pouvez découvrir ici quelques projets que j'ai réalisés. Certains rester
 
 Les langages, frameworks et librairies principalement utilisés sont PHP, Lumen et Symfony pour le Back et HTML, CSS, JavaScript ainsi que React pour le Front.
 
-- __My TV-Shows__ et __son Back-Office__ est un projet personnel, en cours de développement, en HTML, CSS et PHP natif, avec une architecture MVC et la mise en place d'une base de données, avec la gestion des autorisations par rôle utilisateur et la mise en oeuvre de Token CSRF. [Prochainement : lien vers le dépôt]() 
+- __My TV-Shows__ et __son Back-Office__ est un projet personnel, en cours de développement, en HTML, CSS et PHP natif, avec une architecture MVC et la mise en place d'une base de données, avec la gestion des autorisations par rôle utilisateur et la mise en oeuvre de Token CSRF. [Lien vers le dépôt](https://github.com/AnnSo-B/My-TV-Shows)
 
 - __Unnamed-Game__ est un projet réalisé en équipe de 5 développeurs, pendant un mois, de l'établissement des documents de conception, tels que le cahier des charges et les wireframes, à la mise en ligne, en passant par le développement. Les technologies utilisées sont React pour le Front-End et Symfony pour le Back-End. [Lien vers le dépôt](https://github.com/AnnSo-B/unnamed-game) et lien vers le site prochainement.
 
-- __Une Todolist__ qui a une version en Javascript, puis une autre en React, pour la partie Front, avec son API, faite avec Lumen pour le back. [Lien vers le dépôt](https://github.com/AnnSo-B/My_To-Do_List)
+- __Une Todolist__ dont la Front a été développé en Javascript pour une première version, puis en React pour une seconde version, avec son API, conçue avec Lumen pour le back. [Lien vers le dépôt](https://github.com/AnnSo-B/My_To-Do_List)
 
 - Une __boutique en ligne__, en HTML, CSS et PHP, avec une architecture MVC et la mise en place d'une base de données.
 
