@@ -12,6 +12,8 @@ Les langages, frameworks et librairies principalement utilisés sont PHP, Lumen 
 
 - __My TV-Shows__ et __son Back-Office__ est un projet personnel, en cours de développement, en HTML, CSS et PHP natif, avec une architecture MVC et la mise en place d'une base de données, avec la gestion des autorisations par rôle utilisateur et la mise en oeuvre de Token CSRF. [Lien vers le dépôt](https://github.com/AnnSo-B/My-TV-Shows)
 
+- Egalement à venir : __Mon blog Voyages__ avec Wordpress.
+
 - __Unnamed-Game__ est un projet réalisé en équipe de 5 développeurs, pendant un mois, de l'établissement des documents de conception, tels que le cahier des charges et les wireframes, à la mise en ligne, en passant par le développement. Les technologies utilisées sont React pour le Front-End et Symfony pour le Back-End. [Lien vers le dépôt](https://github.com/AnnSo-B/unnamed-game) et [lien vers le site ](https://unnamed-game.fr/).
 
 - __Une Todolist__ dont la Front a été développé en Javascript pour une première version, puis en React pour une seconde version, avec son API, conçue avec Lumen pour le back. [Lien vers le dépôt](https://github.com/AnnSo-B/My_To-Do_List)
